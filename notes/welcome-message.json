@@ -1,1 +1,1 @@
-{"title":"Operator shortcuts","message":"you can put the operator before the equal as a shorthand.\n\nFor example:\na = a + 1 \nis the same as\na += 1","id":"welcome-message","date":"2018-11-21T16:50:13.163Z","updated":"2018-11-21T16:50:49.929Z"}
+{"title":"Operator shortcuts","message":"you can put the operator before the equal as a shorthand.\n\nFor example:\na = a + 1 \nis the same as\na += 1\n\nyou can also increment and deincrement with myVar++; or myVar--; respectivly. ","id":"welcome-message","date":"2018-11-21T16:50:13.163Z","updated":"2018-11-21T16:51:55.172Z"}
